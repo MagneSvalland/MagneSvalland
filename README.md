@@ -38,6 +38,6 @@ interests     : Backend · Fullstack · ML · Game dev
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MagneSvalland&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
+<img src="https://github-profile-trophy.vercel.app/?username=MagneSvalland&theme=onedark&no-frame=true&row=1" />
 
 </div>
