@@ -3,7 +3,7 @@
 
 <br/>
 
-<img align="right" width="340" src="https://github-readme-stats.vercel.app/api?username=MagneSvalland&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+<img align="right" width="340" src="[https://github-readme-stats.vercel.app/api?username=MagneSvalland&show_icons=true&theme=github_dark&hide_border=true&count_private=true](https://streak-stats.demolab.com?user=MagneSvalland&theme=github-dark&hide_border=true)" />
 
 ### About me
 
