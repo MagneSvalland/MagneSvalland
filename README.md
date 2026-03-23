@@ -38,6 +38,6 @@ interests     : Backend · Fullstack · ML · Game dev
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MagneSvalland&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+[![GitHub Streak](https://streak-stats.demolab.com?user=MagneSvalland&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
 
 </div>
