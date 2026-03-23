@@ -2,7 +2,7 @@
 
 # Magne Svalland
 
-`IT Student` · `Backend & Fullstack` · `ML/XAI` · `Norway`
+`IT Student` · `Fullstack` · `ML/XAI` · `Norway`
 
 <br/>
 
@@ -17,7 +17,7 @@
 current_focus : Bachelor thesis — ML & Explainable AI (SHAP)
 experience    : Norsk Hydro — Spring Boot · Azure · PostgreSQL
 education     : HVL Haugesund, graduating 2026
-interests     : Backend · Fullstack · ML · Game dev
+interests     : Fullstack · ML · Game dev
 ```
 
 ---
