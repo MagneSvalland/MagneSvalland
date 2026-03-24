@@ -40,8 +40,6 @@ interests     : Fullstack · ML · Game dev
 
 <br/>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=MagneSvalland&theme=github-dark&hide_border=true)](https://git.io/streak-stats)
-
 ![Snake](https://raw.githubusercontent.com/MagneSvalland/MagneSvalland/output/github-contribution-grid-snake-dark.svg)
 
 </div>
