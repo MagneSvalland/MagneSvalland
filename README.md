@@ -14,8 +14,8 @@
 ---
 
 ```yaml
-current_focus : Bachelor thesis — ML & Explainable AI (SHAP)
-experience    : Norsk Hydro — Spring Boot · Azure · PostgreSQL
+current_focus : Bachelor thesis - ML & Explainable AI (SHAP)
+experience    : Norsk Hydro - Spring Boot · Azure · PostgreSQL
 education     : HVL Haugesund, graduating 2026
 interests     : Fullstack · ML · Game dev · LLMs
 ```
