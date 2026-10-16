@@ -42,6 +42,8 @@ interests     : Fullstack · ML · Game dev · LLMs
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
 ![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-%23117865.svg?style=flat-square&logo=microsoft&logoColor=white)
+![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-%230078D4.svg?style=flat-square&logo=microsoftazure&logoColor=white)
+![RayFin](https://img.shields.io/badge/RayFin-%23333333.svg?style=flat-square)
 
 <br/>
 
