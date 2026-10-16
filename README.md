@@ -2,11 +2,11 @@
 
 # Magne Svalland
 
-`IT Student` · `Fullstack` · `ML/XAI` · `Norway`
+`Developer` · `Fullstack` · `Norway`
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/magne-svalland-b216592a7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/magne-svalland)
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=flat-square&logo=gmail&logoColor=white)](mailto:magne.svalland@outlook.com)
 
 </div>
@@ -14,9 +14,12 @@
 ---
 
 ```yaml
-current_focus : Bachelor thesis - ML & Explainable AI (SHAP)
-experience    : Norsk Hydro - Spring Boot · Azure · PostgreSQL
-education     : HVL Haugesund, graduating 2026
+current_focus : .NET/C#, Azure and system integrations at BIR
+experience    : BIR - Junior Developer (2026-)
+              : HIM - Intern, learning games (Unity) + AI email agent & chatbot (Graph API, Anthropic API)
+              : Norsk Hydro - Intern, Oracle to Azure PostgreSQL migration, backend services
+education     : HVL Haugesund, Bachelor in Information Technology (2023-2026)
+certs         : Microsoft Certified - Azure Fundamentals (AZ-900)
 interests     : Fullstack · ML · Game dev · LLMs
 ```
 
@@ -37,6 +40,8 @@ interests     : Fullstack · ML · Game dev · LLMs
 ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=flat-square&logo=unity&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white)
+![Microsoft Fabric](https://img.shields.io/badge/Microsoft_Fabric-%23117865.svg?style=flat-square&logo=microsoft&logoColor=white)
 
 <br/>
 
